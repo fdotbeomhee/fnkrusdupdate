@@ -103,7 +103,7 @@
     },
     {
         "product": "nuke",
-        "version": "v15.1",
+        "version": "15.1v",
         "date": "2024-06-13",
         "quarter": "Q2 2024",
         "title": "USD기반의 새로운 3D 시스템 도입 3단계",
@@ -124,7 +124,7 @@
     },
     {
         "product": "nuke",
-        "version": "v16.0",
+        "version": "16.0v9",
         "date": "2025-02-27",
         "quarter": "Q1 2025",
         "title": "USD기반의 새로운 3D 시스템 도입 4단계",
@@ -145,7 +145,29 @@
     },
     {
         "product": "nuke",
-        "version": "v17.0",
+        "version": "16.1v4",
+        "date": "2026-02-26",
+        "quarter": "Q1 2026",
+        "title": "향상된 USD기반의 3D 시스템",
+        "description": "실제 촬영 현장 표준의 라이팅 제어, MaterialX 셰이더 도입, 비파괴적 USD 오버라이드 및 그래프 스코프 변수(GSV) 연동을 통해 한층 강력해진 USD 기반 아티스트 워크플로우를 제공합니다",
+        "tags": [
+            "USD 24.05",
+            "GeoLight",
+            "MtlXStandardSurface",
+            "GeoBindMaterial",
+            "GSV 3D support"
+        ],
+        "icon": "images/ICON_NUKE_yellow.svg",
+        "link": "https://learn.foundry.com/nuke/content/release_notes/nuke_16.1.html",
+        "featured": true,
+        "image": "",
+        "content": "",
+        "status": "Beta",
+        "supported": true
+    },
+    {
+        "product": "nuke",
+        "version": "17.0v4",
         "date": "2026-02-26",
         "quarter": "Q1 2026",
         "title": "현대화된 3D 시스템의 도입",
@@ -169,7 +191,7 @@
     },
     {
         "product": "nuke",
-        "version": "v17.1",
+        "version": "17.1v1",
         "date": "2026-08-20",
         "quarter": "Q3 2026",
         "title": "더 확장된 3D 시스템",
