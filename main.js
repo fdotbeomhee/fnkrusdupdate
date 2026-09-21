@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     Promise.all(files.map(file => fetch(`${file}?t=${timestamp}`).then(res => res.json())))
         .then(results => {
-            timelineData = results.flat().sort((a, b) => new Date(a.date) - new Date(b.date));
+            timelineData = results.flat().sort((a, b) => new Date(b.date) - new Date(a.date));
             renderTimeline(timelineData, 'all');
         })
         .catch(err => console.error("Error loading JSON files:", err));
