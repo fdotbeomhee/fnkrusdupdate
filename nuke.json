@@ -159,7 +159,7 @@
         ],
         "icon": "images/ICON_NUKE_yellow.svg",
         "link": "https://learn.foundry.com/nuke/content/release_notes/nuke_16.1.html",
-        "featured": true,
+        "featured": false,
         "image": "",
         "content": "",
         "status": "Beta",
