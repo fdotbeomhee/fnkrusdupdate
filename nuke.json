@@ -156,13 +156,37 @@
             "Lighting",
             "Rendering",
             "Materials&Shading",
-            "Masks&Paths"                        
+            "Masks&Paths",
+            "Gaussian Splats"                        
         ],
         "icon": "images/ICON_NUKE_yellow.svg",
         "link": "https://learn.foundry.com/nuke/content/release_notes/nuke_17.0.html",
         "featured": true,
         "image": "https://img.youtube.com/vi/JuPSYQqXfoE/maxresdefault.jpg",
         "content": "https://www.youtube.com/watch?v=JuPSYQqXfoE",
+        "status": "Official",
+        "supported": true
+    },
+    {
+        "product": "nuke",
+        "version": "v17.1",
+        "date": "2026-08-20",
+        "quarter": "Q3 2026",
+        "title": "Gaussian Splats, Hydra 2.0으로 더 확장된 3D 시스템",
+        "description": "확장된 3D 시스템과 새로운 기능을 통해 더욱 향상된 3D 워크플로우를 경험하세요. Nuke 17.1은 SplatRender Relighting, Gaussian Splats Sequencing 등 다양한 기능을 제공하여 창의적인 작업을 지원합니다.",
+        "tags": [
+            "USD 25.08",
+            "Hydra 2.0",
+            "Export only your Nuke changes",
+            "Gaussian Splats",
+            "SplatRender Relighting",
+            "Gaussian Splats Sequencing"
+        ],
+        "icon": "images/ICON_NUKE_yellow.svg",
+        "link": "https://learn.foundry.com/nuke/content/release_notes/nuke_17.1.html",
+        "featured": true,
+        "image": "https://img.youtube.com/vi/ILXTP8ZSwpg/maxresdefault.jpg",
+        "content": "https://www.youtube.com/watch?v=ILXTP8ZSwpg",
         "status": "Official",
         "supported": true
     }
